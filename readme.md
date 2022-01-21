@@ -11,7 +11,9 @@ Goal is to show a variety of tools that are helpful for data scientists, like:
   - networkx (network analysis)
 - Neo4j
 
-#### Netflix Data
-- Found in netflix_analysis notebook 
+#### Netflix Data Analysis
+Source: https://www.kaggle.com/shivamb/netflix-shows
+- Analysis in `netflix_analysis.ipynb`  
 - Covers exploratory data analysis, network analysis, and nlp in python
-#### Fraud Data
+#### Fraud Data Analysis
+- Covers how to create nodes and relationships in neo4j with py2neo
